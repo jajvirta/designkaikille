@@ -1,0 +1,4 @@
+baseURL = 'https://www.designkaikille.fi/'
+languageCode = 'en-us'
+title = 'Parempaa designia kaikille'
+theme = 'mini'
