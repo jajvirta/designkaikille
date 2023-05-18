@@ -1,4 +1,13 @@
 baseURL = 'https://www.designkaikille.fi/'
 languageCode = 'en-us'
 title = 'Parempaa designia kaikille'
-theme = 'mini'
+theme = 'zen'
+
+[deployment]
+[[deployment.targets]]
+
+name = "awscloudfronts3deployment"
+
+URL = "s3://designkaikille.fi?region=eu-north-1"
+
+cloudFrontDistributionID = "E32CCA8NJ897XO"
