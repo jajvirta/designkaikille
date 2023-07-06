@@ -15,7 +15,7 @@ find from the AWS Console):
 
 Verify that it works:
 
-    aws-vault exec pingisorg -- aws sts get-caller-identity | cat
+    aws-vault exec pdk -- aws sts get-caller-identity | cat
 
 which should look like:
 
