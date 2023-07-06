@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Parempaa designia kaikille'
 theme = 'zen'
 
+[params]
+poweredby = true
+logoWidth = 128
+logoPath = 'images/mylogo.png'
+
 [deployment]
 [[deployment.targets]]
 
