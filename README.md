@@ -6,8 +6,8 @@ to aws-vault with:
 
     aws-vault add pdk
 
-Add to ~/.aws/config (where ACCOUNT_ID is the AWS account ID, which you can
-find from the AWS Console):
+Add to ~/.aws/config (where ACCOUNT_ID is the AWS account ID, jonka saat
+Jarnolta):
 
     [profile pdk]
     role_arn=arn:aws:iam::ACCOUNT_ID:role/OrganizationAccountAccessRole
