@@ -9,5 +9,5 @@ draft: false
 
 Nyt tehdään parempaa designia. Ehkä.
 
-Tehdään vaan.
+Tehrään vaan.
 
